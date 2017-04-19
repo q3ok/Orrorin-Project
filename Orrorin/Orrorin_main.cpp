@@ -136,7 +136,7 @@ void loop() {
       Serial.println();
     } else
     if (cmd->getInstruction() == "S0") { /* save position as next move in sequence */
-      if (savedMovesCount = 1000) {
+      if (savedMovesCount == 1000) {
         Serial.println("S0: Maximum number of moves already saved");
       } else {
         for (int i=0;i<SERVO_COUNT;i++) {
