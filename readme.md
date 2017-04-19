@@ -18,4 +18,4 @@ To control the servos, use serial communication port.
 - S0 - save current position as next step in sequence
 - S1 - display all moves in sequence
 - S2 - remove last move from sequence
-- S9 - play/payse sequence
+- S9 - play/pause sequence

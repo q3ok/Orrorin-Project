@@ -1,6 +1,6 @@
 /**
  * Orrorin Robotic Arm Controller
- * Copyright (C) 2017 q3ok [https://github.com/MarlinFirmware/Marlin]
+ * Copyright (C) 2017 q3ok [https://github.com/q3ok/Orrorin-Project]
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
